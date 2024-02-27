@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author: Aylin Rosa
-#Date: current date in format Feb 25th 24
+#Date: current date in format Feb 26th 24
 #Description: This is a basic script that
 #uses environment variables and the date command
 echo "This is a shell script,"
