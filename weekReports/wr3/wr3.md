@@ -22,7 +22,7 @@
 ![practice 7](practice-7-Bash.png)
 
 ### Practice 1: Managing software
-![practice 1](#practice-1-managing-software)
+![practice 1](practice-1manage.png)
 
 ### Practice 3: Installing and removing apps 
 ![practice 3](practice-3-Manage.png)
