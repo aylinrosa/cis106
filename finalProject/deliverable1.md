@@ -16,14 +16,16 @@ Apache is an open-source web server software developed by the Apache Software Fo
 | Microsoft IIS    |  Proprietary                     |[example 3](https://www.iis.net/)      |
 
 #### Example 1
-![apache](kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg)<br>
+![apache](apache.logo)<br>
+Apache is responsible for accepting directory (HTTP) requests from Internet users and sending them their desired information in the form of files and Web pages. Much of the Web's software and code is designed to work along with Apache's features.
 
 #### Example 2
 ![nginx](nginx.png)<br>
-Velit qui fugiat pariatur adipisicing consequat. Nostrud est sint laboris aliquip. Eiusmod deserunt dolore nulla magna non exercitation nostrud laboris sunt in anim ex nisi. Eu ea ea irure nisi sunt exercitation aute fugiat qui ex.
+NGINX is open-source web server software used for reverse proxy, load balancing, and caching. It provides HTTPS server capabilities and is mainly designed for maximum performance and stability. It also functions as a proxy server for email communications protocols
 
 #### Example 3
-![microsoft](microsoft.iss.jpeg)<br>
+![microsoft](micro.logo.png)<br>
+Internet Information Services (IIS) is a flexible, general-purpose web server from Microsoft that runs on Windows systems to serve requested HTML pages or files. An IIS web server accepts requests from remote client computers and returns the appropriate response.
 
 ### What is virtualization?
 Virtualization is the process of creating a virtual version of something, such as an operating system, server, storage device, or network resources. It allows multiple virtual instances to run on a single physical machine, enabling more efficient resource utilization.
